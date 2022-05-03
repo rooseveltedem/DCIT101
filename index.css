@@ -1,0 +1,10 @@
+h1{
+    background-color: darkturquoise;
+}
+
+body{
+    background-image: url("C:/Users/ROOSEVELT/Desktop/ug web/Hashira.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+}
